@@ -19,6 +19,11 @@ backend/BackendApi/.vscode/
 .env.local
 *.log
 
+# Sensitive configuration files with credentials
+backend/BackendApi/appsettings.json
+backend/BackendApi/appsettings.Development.json
+frontend/.env.local
+
 # OS
 .DS_Store
 Thumbs.db

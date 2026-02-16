@@ -22,7 +22,20 @@ System architecture documentation memberikan technical foundation dan design dec
 
 ---
 
-## 🔌 API Specifications
+## � Implementation Examples
+
+Complete code examples dan implementation guides untuk semua komponen sistem.
+
+- [Implementation Guide](implementation/README.md) - Overview dan architecture patterns
+- [Backend Implementation](implementation/backend.md) - .NET 10 models, repositories, controllers, database
+- [Frontend Implementation](implementation/frontend.md) - React components, API service, styling
+- [Mobile Implementation](implementation/mobile.md) - Flutter screens, models, API service
+
+**Ideal untuk:** Software developers, technical leads, developers baru yang ingin memahami codebase
+
+---
+
+## �🔌 API Specifications
 
 Complete API reference documentation untuk backend integration.
 
@@ -48,12 +61,14 @@ Project reflection memberikan lessons learned, challenges, dan recommendations.
 |------|-----------|
 | **Product Owner** | [Case Study Overview](case-study/README.md) |
 | **Business Analyst** | [Business Requirements](case-study/business-requirements.md) |
-| **Frontend Developer** | [API Reference](api-specs/api-reference.md) |
-| **Backend Developer** | [System Design](architecture/system-design.md) |
+| **Frontend Developer** | [Frontend Implementation](implementation/frontend.md) |
+| **Backend Developer** | [Backend Implementation](implementation/backend.md) |
+| **Mobile Developer** | [Mobile Implementation](implementation/mobile.md) |
 | **DevOps/Infrastructure** | [System Design - Deployment](architecture/system-design.md#deployment-architecture) |
 | **QA/Tester** | [Use Cases](case-study/use-cases.md) |
 | **Project Manager** | [Project Reflection](reflection/project-reflection.md) |
 | **Architect** | [System Design](architecture/system-design.md) |
+| **New Developer** | [Implementation Guide](implementation/README.md) |
 
 ---
 
@@ -89,6 +104,10 @@ Project reflection memberikan lessons learned, challenges, dan recommendations.
 | Business Requirements | 2024-02-17 | 1.0 |
 | Use Cases | 2024-02-17 | 1.0 |
 | Architecture | 2024-02-17 | 1.0 |
+| Implementation Guide | 2024-02-14 | 1.0 |
+| Backend Implementation | 2024-02-14 | 1.0 |
+| Frontend Implementation | 2024-02-14 | 1.0 |
+| Mobile Implementation | 2024-02-14 | 1.0 |
 | API Specs | 2024-02-17 | 1.0 |
 | Reflection | 2024-02-17 | 1.0 |
 
